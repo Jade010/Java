@@ -1,2 +1,2 @@
-# Java
-This is my Java portfolio containing all of my work
+# Java Portfolio
+This contains the various projects i have worked on using Java.
